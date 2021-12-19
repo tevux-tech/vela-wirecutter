@@ -10,3 +10,5 @@ Parts list:
 - [ ] 1x master brick
 - [ ] 1x RasPi 4
 - [ ] 1x Tinkerforge HAT
+- [ ] 1x 128x64 LCD
+- [ ] 2x RGB switches
