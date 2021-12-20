@@ -1,5 +1,5 @@
 Parts list:
-- [ ] 2x medium-power stepper motors 
+- [x] 2x medium-power stepper motors 
 - [ ] 1x servo
 - [x] 1x 3mm straw
 - [x] 1x 3d printer gear
@@ -7,8 +7,11 @@ Parts list:
 - [ ] 1x wire stripper (usable for 1.0mm^2 wire)
 - [ ] 1x optical limit switch
 - [x] 2x stepper bricks
-- [x] 1x master brick
-- [x] 1x RasPi 4
-- [x] 1x Tinkerforge HAT
+- [ ] 1x master brick
+- [ ] 1x RasPi 4
+- [ ] 1x Tinkerforge HAT
 - [x] 1x 128x64 LCD
 - [x] 2x RGB switches
+- [ ] 12V PSU
+- [ ] 5V PSU
+- [ ] Step-down brick instead of the above?..
